@@ -2,6 +2,7 @@
 
     npm install
 
-    node server.js > http://localhost:8080/index.htm
+    node server.js
+        open in the browser http://localhost:8080/index.htm
 
     grunt watch
