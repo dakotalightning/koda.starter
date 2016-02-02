@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/animikii/sanyas-nationalmap.git"
+    "url": "https://github.com/dakotalightning/koda.starter.git"
   },
   "bugs": {
-    "url": "https://github.com/animikii/sanyas-nationalmap/issues"
+    "url": "https://github.com/dakotalightning/koda.starter/issues"
   },
   "dependencies" : {
     "express"    : "~4.7.2",
