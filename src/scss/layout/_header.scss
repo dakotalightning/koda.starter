@@ -1,0 +1,6 @@
+.layout-header {
+  @extend .navbar;
+  @extend .navbar-default;
+
+  margin-bottom: 0;
+}

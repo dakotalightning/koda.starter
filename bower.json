@@ -1,0 +1,22 @@
+{
+  "name": "Start",
+  "description": "Start for Basic html",
+  "main": "server.js",
+  "authors": [
+    "Dakota J Lightning"
+  ],
+  "license": "None",
+  "moduleType": [],
+  "homepage": "src/index.html",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6"
+  }
+}
